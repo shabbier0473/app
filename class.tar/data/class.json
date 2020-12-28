@@ -1,0 +1,70 @@
+{
+    "errors": [],
+    "response": {
+        "classes": [
+            {
+                "id": "1001",
+                "room_number": "1",
+                "capacity": "80",
+                "class_allocated": "10 A",
+                "location": "Main Block"
+            },
+            {
+                "id": "1002",
+                "room_number": "2",
+                "capacity": "80",
+                "class_allocated": "10 B",
+                "location": "Main Block"
+            },
+            {
+                "id": "1003",
+                "room_number": "3",
+                "capacity": "80",
+                "class_allocated": "10 C",
+                "location": "Main Block"
+            },
+            {
+                "id": "1004",
+                "room_number": "4",
+                "capacity": "50",
+                "class_allocated": "9 A",
+                "location": "Main Block"
+            },
+            {
+                "id": "1005",
+                "room_number": "5",
+                "capacity": "50",
+                "class_allocated": "9 B",
+                "location": "Main Block"
+            },
+            {
+                "id": "1006",
+                "room_number": "6",
+                "capacity": "50",
+                "class_allocated": "9 C",
+                "location": "Main Block"
+            },
+            {
+                "id": "1007",
+                "room_number": "7",
+                "capacity": "50",
+                "class_allocated": "9 D",
+                "location": "Main Block"
+            },
+            {
+                "id": "1008",
+                "room_number": "8",
+                "capacity": "40",
+                "class_allocated": "5 A",
+                "location": "Sub Block"
+            },
+            {
+                "id": "1009",
+                "room_number": "9",
+                "capacity": "40",
+                "class_allocated": "5 B",
+                "location": "Sub Block"
+            }
+        ]
+    }
+}
