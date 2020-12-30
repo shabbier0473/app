@@ -1,0 +1,16 @@
+<div>
+    {{title}}
+</div>
+<div>
+  <label> User Name </label>
+  <input type="text" name="user_name" id="user_name" [(ngModel)]="username" />
+</div>
+<div>
+  <input type="button" name="submit" id="submit" (click)="getServiceResponse()" value="submit"/>
+  <input type="button" name="other" id="other" (click)="getOtherServiceResponse()" value="other"/>
+  <input type="button" name="all" id="all" (click)="getAllServiceResponse()" value="all"/>
+</div>
+<div>
+{{response|json}}
+</div>
+<router-outlet></router-outlet>
